@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\regex_test\regex_test\obj\Debug\regex_test.Form1.resources
+C:\Users\Alex\source\repos\regex_test\regex_test\obj\Debug\regex_test.Properties.Resources.resources
+C:\Users\Alex\source\repos\regex_test\regex_test\obj\Debug\regex_test.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\regex_test\regex_test\obj\Debug\regex_test.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\regex_test\regex_test\bin\Debug\regex_test.exe.config
+C:\Users\Alex\source\repos\regex_test\regex_test\bin\Debug\regex_test.exe
+C:\Users\Alex\source\repos\regex_test\regex_test\bin\Debug\regex_test.pdb
+C:\Users\Alex\source\repos\regex_test\regex_test\obj\Debug\regex_test.exe
+C:\Users\Alex\source\repos\regex_test\regex_test\obj\Debug\regex_test.pdb
+C:\Users\Alex\source\repos\regex_test\regex_test\obj\Debug\regex_test.csprojAssemblyReference.cache
